@@ -1,0 +1,12 @@
+.header{
+    padding: 40px 0;
+    border-bottom: 1px solid black;
+}
+.header__nav{
+    display: flex;
+    justify-content: space-between;
+}
+.header__menu{
+    display: flex;
+    column-gap: 20px;
+}
